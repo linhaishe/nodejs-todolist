@@ -4,6 +4,7 @@ var bodyParser = require("body-parser");
 var app = express();
 
 app.use(bodyParser.urlencoded({ extended: true }));
+//This object will contain key-value pairs, where the value can be a string or array (when extended is false), or any type (when extended is true).
 app.set("view engine", "ejs");
 //render css files
 app.use(express.static("public"));
