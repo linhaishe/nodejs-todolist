@@ -1,3 +1,5 @@
+一个可以运行的 todolist，完整的添加和删除
+
 # nodejs-todo
 
 <h2> A simple To Do List application built with Node.js and Express</h2>
@@ -10,7 +12,7 @@
 <li> Body-parser - This extracts the entire body portion of an incoming request stream and exposes it on req.body </li>
 </ul>
 
-![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true 'web todo')
+![png](https://github.com/missating/nodejs-todo/blob/master/todo.png?raw=true "web todo")
 
 <br>
 
@@ -25,4 +27,3 @@
 </ol>
 
 <p> I wrote a blog post on how to build this app, you can check it out <a href="https://medium.com/@atingenkay/creating-a-todo-app-with-node-js-express-8fa51f39b16f" target="_blank">Here</a>
-
